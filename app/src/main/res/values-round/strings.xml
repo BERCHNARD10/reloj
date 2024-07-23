@@ -1,0 +1,4 @@
+<resources>
+    <string name="channel_name">Nombre del Canal</string>
+    <string name="channel_description">Description del Canal</string>
+</resources>
